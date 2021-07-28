@@ -1,6 +1,14 @@
+/* header background color */
 .honda-cbr-header-bg{
     background-color:  #264653;;
 }
-.nav-item{
-    color: white;
+
+/* span color */
+.span-text-color{
+    color: #E76F51;
+}
+
+/* feature-image-bike */
+.fetures-image-bike{
+    filter: grayscale(100%)
 }
