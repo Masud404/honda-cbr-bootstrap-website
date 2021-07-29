@@ -30,3 +30,8 @@
     font-size: 20px;
 }
 
+/* accordion-border-color */
+.accordion-border{
+    border: 3px solid #D5E5FB;
+}
+
